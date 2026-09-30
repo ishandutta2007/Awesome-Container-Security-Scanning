@@ -42,7 +42,7 @@
 
 ## 💻 Open-Source Container Security Tools
 
-Open-source tools form the core scanner ecosystem. Below is a curated list sorted by **GitHub Star Count (Descending)**:
+Open-source tools form the core scanner ecosystem. Below is a curated list sorted by **GitHub Stars_Count (Descending)**:
 
 1. ⭐ **[Trivy](https://github.com/aquasecurity/trivy/stargazers)** 
    [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
